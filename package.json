@@ -1,0 +1,27 @@
+{
+  "name": "tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "lite-server",
+    "build": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavankapuluru/tasks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/pavankapuluru/tasks/issues"
+  },
+  "homepage": "https://github.com/pavankapuluru/tasks#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^5.9.3"
+  }
+}
